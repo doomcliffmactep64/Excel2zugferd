@@ -182,3 +182,6 @@ This repository serves as the official landing page for Excel2ZUGFeRD. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Excel2ZUGFeRD today!**
+
+---
+**Last updated:** 2026-11-08 14:37:01 UTC
