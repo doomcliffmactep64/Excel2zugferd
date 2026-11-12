@@ -184,4 +184,4 @@ This repository serves as the official landing page for Excel2ZUGFeRD. The softw
 **Get the most recent version of Excel2ZUGFeRD today!**
 
 ---
-**Last updated:** 2026-11-12 11:57:14 UTC
+**Last updated:** 2026-11-12 19:25:32 UTC
